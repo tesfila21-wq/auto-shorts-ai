@@ -1,0 +1,7 @@
+{
+  "name": "AutoShorts AI",
+  "description": "An automated AI platform to generate scripts, images, and voice-overs for YouTube Shorts based on chosen niches.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
